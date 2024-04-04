@@ -1,0 +1,22 @@
+Afleveringsopgave
+
+Source control gruppe opgave
+For begge opgaver gælder at vi bruger Visuel Studio til at koble på Github 
+
+
+Versionering del 1:
+
+//I skal finde frem til følgende
+Hvordan oprettes et projekt og tjekkes ind i source control (Github).
+
+Hvordan kan jeg tjekke eksisterende projekt in i source control (Github).
+Hvordan forgår samarbejde om et projekt i Git.
+Skab en konflikt og forklar hvordan den løses
+Opgaven er løst når alle i gruppen er i stand til at forklare/vise mig hvad der sker. Der laves en 4-5 min præsentation (Powerpoint).
+
+Branching del2:
+
+Forklar hvordan vi kan oprette en branch
+Hvordan kan vi merge Branch ind på Master
+Hvordan løser vi konflikter mellem forskellige branch når vi samler det hele i masterbranch
+Der laves en 4-5 min præsentation (Powerpoint).
